@@ -1,0 +1,13 @@
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Services.deps.json
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Services.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\obj\Debug\netcoreapp3.0\MM_Services.csprojAssemblyReference.cache
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\obj\Debug\netcoreapp3.0\MM_Services.AssemblyInfoInputs.cache
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\obj\Debug\netcoreapp3.0\MM_Services.AssemblyInfo.cs
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Services.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Common.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Entities.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Common.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\bin\Debug\netcoreapp3.0\MM_Entities.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\obj\Debug\netcoreapp3.0\MM_Services.csproj.CopyComplete
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\obj\Debug\netcoreapp3.0\MM_Services.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Services\obj\Debug\netcoreapp3.0\MM_Services.pdb

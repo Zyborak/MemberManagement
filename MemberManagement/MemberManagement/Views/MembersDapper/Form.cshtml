@@ -1,0 +1,62 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model MemberManagement.Models.MemberModel
+@{
+    ViewData["Title"] = "Add Member";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <!-- left column -->
+    <div class="col-md-12">
+        <!-- general form elements -->
+        <div class="box box-primary">
+            <!-- form start -->
+            @using (Html.BeginForm(Model.MemberID == 0 ? "Add" : "Edit", "MembersDapper", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+            <div class="box-body">
+                @Html.AntiForgeryToken()
+                <div class="row">
+                    @Html.HiddenFor(model => model.MemberID)
+                    <div class="col-xs-12" f>
+                        <label>Member Title</label>
+                        @Html.TextBoxFor(model => model.MemberTitle, new { @class = "form-control", @placeholder = "Member Title" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12">
+                        <label>Enter First Name </label>
+                        @Html.TextBoxFor(model => model.MemberFirstName, new { @class = "form-control" })
+
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12">
+                        <label>Enter Last Name</label>
+                        @Html.TextBoxFor(model => model.MemberLastName, new { @class = "form-control" })
+
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12">
+                        <label>Member Image</label>
+                        <input type="file" id="file" name="file">
+                        @Html.HiddenFor(model => model.MemberImage)
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        @Html.CheckBoxFor(model => model.IsActive, new { @class = "col-form-checkbox" })  Vacancy Available
+                    </div>
+                </div>
+            </div><!-- /.box-body -->
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> Save</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

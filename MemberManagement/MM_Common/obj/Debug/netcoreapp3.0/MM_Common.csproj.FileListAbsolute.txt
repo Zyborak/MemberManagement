@@ -1,0 +1,8 @@
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\bin\Debug\netcoreapp3.0\MM_Common.deps.json
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\bin\Debug\netcoreapp3.0\MM_Common.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\obj\Debug\netcoreapp3.0\MM_Common.AssemblyInfoInputs.cache
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\obj\Debug\netcoreapp3.0\MM_Common.AssemblyInfo.cs
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\bin\Debug\netcoreapp3.0\MM_Common.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\obj\Debug\netcoreapp3.0\MM_Common.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\obj\Debug\netcoreapp3.0\MM_Common.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Common\obj\Debug\netcoreapp3.0\MM_Common.csprojAssemblyReference.cache

@@ -1,0 +1,63 @@
+﻿@model MM_Entities.Entities.Member
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Member</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MemberTitle" class="control-label"></label>
+                <input asp-for="MemberTitle" class="form-control" />
+                <span asp-validation-for="MemberTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberImage" class="control-label"></label>
+                <input asp-for="MemberImage" class="form-control" />
+                <span asp-validation-for="MemberImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberFirstName" class="control-label"></label>
+                <input asp-for="MemberFirstName" class="form-control" />
+                <span asp-validation-for="MemberFirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberLastName" class="control-label"></label>
+                <input asp-for="MemberLastName" class="form-control" />
+                <span asp-validation-for="MemberLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreatedDateTime" class="control-label"></label>
+                <input asp-for="CreatedDateTime" class="form-control" />
+                <span asp-validation-for="CreatedDateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UpdatedDateTime" class="control-label"></label>
+                <input asp-for="UpdatedDateTime" class="form-control" />
+                <span asp-validation-for="UpdatedDateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,8 @@
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\obj\Debug\netcoreapp3.0\MM_Entities.AssemblyInfoInputs.cache
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\obj\Debug\netcoreapp3.0\MM_Entities.AssemblyInfo.cs
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\bin\Debug\netcoreapp3.0\MM_Entities.deps.json
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\bin\Debug\netcoreapp3.0\MM_Entities.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\bin\Debug\netcoreapp3.0\MM_Entities.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\obj\Debug\netcoreapp3.0\MM_Entities.dll
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\obj\Debug\netcoreapp3.0\MM_Entities.pdb
+C:\Users\hnicaragua\Desktop\Respaldo Tarjeta 1\Hang\MemberManagement\MemberManagement\MM_Entities\obj\Debug\netcoreapp3.0\MM_Entities.csprojAssemblyReference.cache
